@@ -1,0 +1,8 @@
+C:\Development\MyClasses\TestProject\bin\Debug\netstandard2.0\MyClasses.deps.json
+C:\Development\MyClasses\TestProject\bin\Debug\netstandard2.0\MyClasses.dll
+C:\Development\MyClasses\TestProject\bin\Debug\netstandard2.0\MyClasses.pdb
+C:\Development\MyClasses\TestProject\obj\Debug\netstandard2.0\MyClasses.csprojAssemblyReference.cache
+C:\Development\MyClasses\TestProject\obj\Debug\netstandard2.0\MyClasses.AssemblyInfoInputs.cache
+C:\Development\MyClasses\TestProject\obj\Debug\netstandard2.0\MyClasses.AssemblyInfo.cs
+C:\Development\MyClasses\TestProject\obj\Debug\netstandard2.0\MyClasses.dll
+C:\Development\MyClasses\TestProject\obj\Debug\netstandard2.0\MyClasses.pdb
